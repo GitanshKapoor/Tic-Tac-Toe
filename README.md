@@ -9,7 +9,7 @@ You can Access the Source Code From Above.
 
 **Language:** Python.
 
-**Graphic Tools:** Pycharm, Atom, GDB.
+**IDE/Tools:** Pycharm, Atom, GDB.
 
 
 ![Logo](https://raspberry-valley.azurewebsites.net/img/Python-01.jpg)
